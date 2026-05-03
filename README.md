@@ -60,7 +60,7 @@ Crops_disease_detection/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/crops-disease-detection.git
+git clone [https://github.com/Shreyagc24/AgriRakshak]
 cd crops-disease-detection
 ```
 

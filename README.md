@@ -150,9 +150,8 @@ The model successfully classifies crop diseases with strong accuracy and can be 
 
 ---
 
-## 📜 License
-
-This project is for academic and educational purposes only.
+## Publication
+📖 Published in [2025 3rd International Conference on IoT Communication and Automation Technology ICICAT] — [2025]
 
 ---
 
